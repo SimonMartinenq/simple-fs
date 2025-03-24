@@ -13,6 +13,10 @@ export const siteConfig = {
       href: "/upload",
     },
     {
+      label: "Files",
+      href: "/files",
+    },
+    {
       label: "About",
       href: "/about",
     },
@@ -25,6 +29,10 @@ export const siteConfig = {
     {
       label: "Upload",
       href: "/upload",
+    },
+    {
+      label: "Files",
+      href: "/files",
     },
     {
       label: "About",
