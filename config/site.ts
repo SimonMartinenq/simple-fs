@@ -40,7 +40,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/SimonMartinenq",
-    docs: "https://github.com/SimonMartinenq",
+    github: "https://github.com/SimonMartinenq/simple-fs/",
+    docs: "https://github.com/SimonMartinenq/simple-fs/",
   },
 };
